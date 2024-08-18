@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fundo">#F8A696</color>
+    <color name="corBotao">#BD7F72</color>
+    <color name="fragment">#EDBFBF</color>
+</resources>

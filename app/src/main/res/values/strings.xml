@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DonaBenedita</string>
+    <string name="login">Login</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="email">Digite seu e-mail</string>
+    <string name="nome">Digite o nome</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="sen">Senha</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name">Nome</string>
+    <string name="voltar">Voltar</string>
+    <string name="digite_cnpj">Digite o cnpj</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="nome_fornecedor">Digite o nome do fornecedor</string>
+    <string name="sair">Sair</string>
+    <string name="novoProd">Novo produto</string>
+    <string name="verProd">Ver produtos</string>
+    <string name="adm">Adm</string>
+    <string name="cliente">Clientes</string>
+    <string name="fornecedor">Fornecedores</string>
+    <string-array name="opcoesArray">
+        <item>
+            Cliente
+        </item>
+        <item>
+            Fornecedor
+        </item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="menu">Menu</string>
+    <string name="produto">Produto</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="preco">Preço</string>
+    <string name="descricao">Descrição</string>
+</resources>
